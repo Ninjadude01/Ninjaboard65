@@ -1,2 +1,3 @@
-# Ninjaboard65-
-hi
+# Ninjaboard65
+
+The Ninjaboard
