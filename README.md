@@ -19,12 +19,14 @@ I chose a 65% layout as I like to game in my freetime, and this layout is a perf
 ![pic3](Pictures/Screenshot%202026-04-12%20102824.png)
 
 # Schematic
+I designed the Schematic and PCB in Kicad, and chose to use a raspberry pi pico because it has many GPIO pins, making it perfect for my project as I needed 21 pins for my matrix + rotary encoder to work.
 
 ![pic1](Pictures/Screenshot%202026-04-12%20102432.png)
 
 ![pic2](Pictures/Screenshot%202026-04-12%20102447.png)
 
 # PCB
+I am very proud of my clean wiring, as it took me countless hours and I re-did it many times. I also added some cool designs to the backside silkscreen to add some unique flair to my project!
 
 ![pic](Pictures/Screenshot%202026-04-12%20104409.png)
 
@@ -32,7 +34,7 @@ I chose a 65% layout as I like to game in my freetime, and this layout is a perf
 ![pic](Pictures/Screenshot%202026-04-12%20102458.png)
 
 # Case
-
+My Keyboard case was created in fusion, 
 ![pic](Pictures/Screenshot%202026-04-12%20102911.png)
 
 ![pic](Pictures/Screenshot%202026-04-12%20102936.png)
