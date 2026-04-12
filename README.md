@@ -4,6 +4,9 @@ The Ninjaboard65 is a 65% custom keyboard with a knob! Features include hot-swap
 
 # Zine
 
+# Renders
+
+
 # Layout 
 
 ![pic3](Pictures/Screenshot%202026-04-12%20102824.png)
@@ -25,6 +28,10 @@ The Ninjaboard65 is a 65% custom keyboard with a knob! Features include hot-swap
 ![pic](Pictures/Screenshot%202026-04-12%20102936.png)
 
 ![pic1](Pictures/Screenshot5202026-04-12%20102959.png)
+
+
+
+
 
 # Firmware
 
