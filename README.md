@@ -19,7 +19,7 @@ I chose a 65% layout as I like to game in my freetime, and this layout is a perf
 ![pic3](Pictures/Screenshot%202026-04-12%20102824.png)
 
 # Schematic
-I designed the Schematic and PCB in Kicad, and chose to use a raspberry pi pico because it has many GPIO pins, making it perfect for my project as I needed 21 pins for my matrix + rotary encoder to work.
+I designed the Schematic and PCB in Kicad, and chose to use a raspberry pi pico because it has many GPIO pins, making it perfect for my project as I needed 22 pins for my matrix + rotary encoder to work.
 
 ![pic1](Pictures/Screenshot%202026-04-12%20102432.png)
 
