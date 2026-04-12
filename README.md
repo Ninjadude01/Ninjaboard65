@@ -1,6 +1,6 @@
 # Ninjaboard65
 
-The Ninjaboard65 is a 65% custom keyboard with a knob! Features include hot-swappable gateron yellow switches, pbt double-shot keycaps, and a 3d printed case + plate. It uses qmk firmware, which is fully customizable so you can assign each key to whatever function you want. I decided to build this project as I love hardware and am already familiar with the basics. I wanted a project that would challenge me, which is why I decided to make my own keyboard. Another reason why is because I love playing video games in my free time, so being able to create my very own imput device means alot to me.
+The Ninjaboard65 is a 65% custom keyboard with a knob! Features include hot-swappable gateron yellow switches, pbt double-shot keycaps, and a 3d printed case + plate. It uses qmk firmware, which is fully customizable so you can assign each key to whatever function you want. I decided to build this project as I love hardware and am already familiar with the basics. I wanted a project that would challenge me, which is why I decided to make my own keyboard. Another reason why is because I love playing video games in my free time, so being able to create my very own imput device means alot to me, and would be very useful as I can customize it specifically to meet my gaming needs.
 
 # Fallout Zine!
 ![pic](Ninjaboard65-Fallout-Zine.png)
