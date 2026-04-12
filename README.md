@@ -48,7 +48,7 @@ The final part of my case is the pico cover, which covers the microcontroller. I
 ![pic](Pictures/Screenshot%202026-04-12%20104749.png)
 
 # Firmware
-My project uses qmk firmare.
+My project uses qmk firmare, and the json and .c files can be found in the Firmware folder.
 
 # BOM
 
