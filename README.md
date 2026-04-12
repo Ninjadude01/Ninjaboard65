@@ -34,18 +34,21 @@ I am very proud of my clean wiring, as it took me countless hours and I re-did i
 ![pic](Pictures/Screenshot%202026-04-12%20102458.png)
 
 # Case
-My Keyboard case was created in fusion, 
+My keyboard case was created in fusion, and comes in 3 parts. The main part of the case is the base, and has 3 small PCB supports located near the centre left, centre right, and spacebar area. It will have 5 m2 heatset inserts located around the edge of the base. 
 ![pic](Pictures/Screenshot%202026-04-12%20102911.png)
 
 ![pic](Pictures/Screenshot%202026-04-12%20102936.png)
 
+My case uses 5 m2 4mm screws that will screw from the top plate into the base. 
 ![pic1](Pictures/Screenshot%202026-04-12%20102959.png)
 
+The final part of my case is the pico cover, which covers the microcontroller. It connects to the plate through a snap-fit type mechanism (theres an extruded outline on the plate, and an indented section on the underside of the cover.)
 ![pic](Pictures/Screenshot%202026-04-12%20104725.png)
 
 ![pic](Pictures/Screenshot%202026-04-12%20104749.png)
 
 # Firmware
+My project uses qmk firmare.
 
 # BOM
 
