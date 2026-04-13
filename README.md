@@ -47,8 +47,6 @@ The final part of my case is the pico cover, which covers the microcontroller. I
 
 ![pic](Pictures/Screenshot%202026-04-12%20104749.png)
 
-# Firmware Flashing Steps
-My project uses qmk firmare, and the json and .c files can be found in the Firmware folder.
 
 # Assembly Guide 
 1. Solder the 1N4148 and Kailh hot-swap sockets to the underside of the pcb.
@@ -58,8 +56,10 @@ My project uses qmk firmare, and the json and .c files can be found in the Firmw
 5. Use a soldering iron to heat up the m2 heatset inserts, and push them into the 5 designated holes in the walls of the base case. 
 7. Flip your plate attached the the pcb over, and lower it into the base case.
 8. Screw the m2 screws into the holes, cover the open Raspberry Pi Pico with the nameplate (optional), and place the keycaps onto the respective keys.
-9. Enjoy your new Ninjaboard 65!
+9. All thats left to do now is to flash your Ninjaboard65!
 
+# Firmware Flashing Steps
+My project uses qmk firmare, and the json and .c files can be found in the Firmware folder.
 
 # BOM
 
