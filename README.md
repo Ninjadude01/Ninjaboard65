@@ -59,7 +59,12 @@ The final part of my case is the pico cover, which covers the microcontroller. I
 9. All thats left to do now is to flash your Ninjaboard65!
 
 # Firmware Flashing Steps
-1. 
+1. Download the .uf2 file found in the Firmware Folder.
+2. Hold down the BOOTSEL button found on the Pico, and connect it back into your device using a usb cable while holding it.
+3. A usb drive called RPI-RP2 will appear on your computer.
+4. Drag and drop the .uf2 file onto the drive. 
+5. The Pico will automatically reboot and you should be good to go.
+6. Enjoy your new Ninjaboard65!
 
 # BOM
 
