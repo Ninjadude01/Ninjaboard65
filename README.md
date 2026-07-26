@@ -4,7 +4,7 @@ The Ninjaboard65 is a 65% custom keyboard with a knob! Features include hot-swap
 
 Youtube Video Link: https://www.youtube.com/watch?v=n-olJ9K8aAI
 
-# Fallout Zine!
+# Zine!
 ![pic](Assets/Ninjaboard65-ZINE(irl).png)
 
 # IRL Photos vs the 3D Renders
